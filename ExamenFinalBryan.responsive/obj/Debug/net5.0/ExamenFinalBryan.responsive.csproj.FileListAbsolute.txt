@@ -1405,3 +1405,4 @@ C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.respo
 C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.responsive\obj\Debug\net5.0\ExamenFinalBryan.responsive.pdb
 C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.responsive\obj\Debug\net5.0\ExamenFinalBryan.responsive.genruntimeconfig.cache
 C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.responsive\obj\Debug\net5.0\ref\ExamenFinalBryan.responsive.dll
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.responsive\obj\Debug\net5.0\Razor\Views\Chart\Index.cshtml.g.cs
