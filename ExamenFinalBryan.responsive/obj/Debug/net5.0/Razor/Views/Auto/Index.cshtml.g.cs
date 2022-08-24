@@ -14,62 +14,62 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 #line 1 "C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.responsive\Views\_ViewImports.cshtml"
-using ExamenFinalBryan.responsive;
+using Proyecto.responsive;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
 #line 2 "C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.responsive\Views\_ViewImports.cshtml"
-using ExamenFinalBryan.domain.Models;
+using Proyecto.domain.Models;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
 #line 3 "C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.responsive\Views\_ViewImports.cshtml"
-using ExamenFinalBryan.domain.Models.Entities;
+using Proyecto.domain.Models.Entities;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
 #line 4 "C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.responsive\Views\_ViewImports.cshtml"
-using ExamenFinalBryan.domain.Models.ViewModels;
+using Proyecto.domain.Models.ViewModels;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
 #line 5 "C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.responsive\Views\_ViewImports.cshtml"
-using ExamenFinalBryan.domain.Models.InputModels;
+using Proyecto.domain.Models.InputModels;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
 #line 6 "C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.responsive\Views\_ViewImports.cshtml"
-using ExamenFinalBryan.domain.Models.DataModels;
+using Proyecto.domain.Models.DataModels;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
 #line 7 "C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.responsive\Views\_ViewImports.cshtml"
-using ExamenFinalBryan.domain.Models.Enums;
+using Proyecto.domain.Models.Enums;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
 #line 8 "C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.responsive\Views\_ViewImports.cshtml"
-using ExamenFinalBryan.domain.Models.DataTransferModels;
+using Proyecto.domain.Models.DataTransferModels;
 
 #line default
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"e107f9dd13f2b636627fa5e7d199a85ada09dcf1", @"/Views/Auto/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"f46ceb074c5cd70c3ca30ce5b9fbab338a1b0fa4", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"501aa1b7e4b744485bf159f68328799c737c2330", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Views_Auto_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<List<Auto>>
     #nullable disable

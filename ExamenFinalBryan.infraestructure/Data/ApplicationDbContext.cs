@@ -1,5 +1,5 @@
-﻿using ExamenFinalBryan.application.Contracts;
-using ExamenFinalBryan.domain.Models.DataModels;
+﻿using Proyecto.application.Contracts;
+using Proyecto.domain.Models.DataModels;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
@@ -9,7 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExamenFinalBryan.infraestructure.Data
+namespace Proyecto.infraestructure.Data
 {
     public class ApplicationDbContext: IdentityDbContext<IdentityUser>, IApplicationDbContext
     {

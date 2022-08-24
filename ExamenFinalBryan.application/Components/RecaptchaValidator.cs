@@ -1,6 +1,6 @@
-﻿using ExamenFinalBryan.application.Contracts;
-using ExamenFinalBryan.domain.Models.ConfigurationsModels;
-using ExamenFinalBryan.domain.Models.PlainModels;
+﻿using Proyecto.application.Contracts;
+using Proyecto.domain.Models.ConfigurationsModels;
+using Proyecto.domain.Models.PlainModels;
 using Microsoft.Extensions.Options;
 using System;
 using System.Collections.Generic;
@@ -10,7 +10,7 @@ using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
 
-namespace ExamenFinalBryan.application.Components
+namespace Proyecto.application.Components
 {
     public class RecaptchaValidator : IRecaptchaValidator
     {

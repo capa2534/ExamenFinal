@@ -6358,9 +6358,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.domain\\ExamenFinalBryan.domain.csproj",
-      "projectName": "ExamenFinalBryan.domain",
-      "projectPath": "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.domain\\ExamenFinalBryan.domain.csproj",
+      "projectUniqueName": "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.domain\\Proyecto.Domain.csproj",
+      "projectName": "Proyecto.Domain",
+      "projectPath": "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.domain\\Proyecto.Domain.csproj",
       "packagesPath": "C:\\Users\\valer\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.domain\\obj\\",
       "projectStyle": "PackageReference",

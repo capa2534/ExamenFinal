@@ -1,4 +1,4 @@
-﻿using ExamenFinalBryan.domain.Models.DataModels;
+﻿using Proyecto.domain.Models.DataModels;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExamenFinalBryan.application.Contracts
+namespace Proyecto.application.Contracts
 {
     public interface IApplicationDbContext
     {

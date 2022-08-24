@@ -7,7 +7,7 @@ using System.Net.Mail;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExamenFinalBryan.domain.Models.MailModels
+namespace Proyecto.domain.Models.MailModels
 {
     public class Cartero : ICartero
     {

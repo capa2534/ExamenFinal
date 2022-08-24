@@ -14,62 +14,62 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 #line 1 "C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.responsive\Views\_ViewImports.cshtml"
-using ExamenFinalBryan.responsive;
+using Proyecto.responsive;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
 #line 2 "C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.responsive\Views\_ViewImports.cshtml"
-using ExamenFinalBryan.domain.Models;
+using Proyecto.domain.Models;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
 #line 3 "C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.responsive\Views\_ViewImports.cshtml"
-using ExamenFinalBryan.domain.Models.Entities;
+using Proyecto.domain.Models.Entities;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
 #line 4 "C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.responsive\Views\_ViewImports.cshtml"
-using ExamenFinalBryan.domain.Models.ViewModels;
+using Proyecto.domain.Models.ViewModels;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
 #line 5 "C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.responsive\Views\_ViewImports.cshtml"
-using ExamenFinalBryan.domain.Models.InputModels;
+using Proyecto.domain.Models.InputModels;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
 #line 6 "C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.responsive\Views\_ViewImports.cshtml"
-using ExamenFinalBryan.domain.Models.DataModels;
+using Proyecto.domain.Models.DataModels;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
 #line 7 "C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.responsive\Views\_ViewImports.cshtml"
-using ExamenFinalBryan.domain.Models.Enums;
+using Proyecto.domain.Models.Enums;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
 #line 8 "C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.responsive\Views\_ViewImports.cshtml"
-using ExamenFinalBryan.domain.Models.DataTransferModels;
+using Proyecto.domain.Models.DataTransferModels;
 
 #line default
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"02a68637db730cc7c897c3cab8462c9d0c6b789f", @"/Views/Shared/_Layout.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"f46ceb074c5cd70c3ca30ce5b9fbab338a1b0fa4", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"501aa1b7e4b744485bf159f68328799c737c2330", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Views_Shared__Layout : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     #nullable disable
@@ -130,7 +130,7 @@ using ExamenFinalBryan.domain.Models.DataTransferModels;
         public async override global::System.Threading.Tasks.Task ExecuteAsync()
         {
             WriteLiteral("<!DOCTYPE html>\r\n<html lang=\"en\">\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "02a68637db730cc7c897c3cab8462c9d0c6b789f13665", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "02a68637db730cc7c897c3cab8462c9d0c6b789f13601", async() => {
                 WriteLiteral("\r\n    <meta charset=\"utf-8\" />\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\r\n    <title>");
 #nullable restore
 #line 6 "C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.responsive\Views\Shared\_Layout.cshtml"
@@ -140,7 +140,7 @@ using ExamenFinalBryan.domain.Models.DataTransferModels;
 #line hidden
 #nullable disable
                 WriteLiteral(" - Fidelitas Motors</title>\r\n    ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "02a68637db730cc7c897c3cab8462c9d0c6b789f14350", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "02a68637db730cc7c897c3cab8462c9d0c6b789f14286", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -155,7 +155,7 @@ using ExamenFinalBryan.domain.Models.DataTransferModels;
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n    ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "02a68637db730cc7c897c3cab8462c9d0c6b789f15529", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "02a68637db730cc7c897c3cab8462c9d0c6b789f15465", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -187,9 +187,9 @@ using ExamenFinalBryan.domain.Models.DataTransferModels;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "02a68637db730cc7c897c3cab8462c9d0c6b789f17724", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "02a68637db730cc7c897c3cab8462c9d0c6b789f17660", async() => {
                 WriteLiteral("\r\n    <header>\r\n        <nav class=\"navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3\">\r\n            <div class=\"container\">\r\n                ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "02a68637db730cc7c897c3cab8462c9d0c6b789f18180", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "02a68637db730cc7c897c3cab8462c9d0c6b789f18116", async() => {
                     WriteLiteral("Fidelitas Motors");
                 }
                 );
@@ -227,7 +227,7 @@ using ExamenFinalBryan.domain.Models.DataTransferModels;
 #line hidden
 #nullable disable
                 WriteLiteral("                            <li class=\"nav-item text-right\">\r\n                                ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "02a68637db730cc7c897c3cab8462c9d0c6b789f20835", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "02a68637db730cc7c897c3cab8462c9d0c6b789f20771", async() => {
                     WriteLiteral("Registrarme");
                 }
                 );
@@ -246,7 +246,7 @@ using ExamenFinalBryan.domain.Models.DataTransferModels;
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n                            </li>\r\n                            <li class=\"nav-item\">\r\n                                ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "02a68637db730cc7c897c3cab8462c9d0c6b789f22485", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "02a68637db730cc7c897c3cab8462c9d0c6b789f22421", async() => {
                     WriteLiteral("Iniciar Sesión");
                 }
                 );
@@ -275,7 +275,7 @@ using ExamenFinalBryan.domain.Models.DataTransferModels;
 #line hidden
 #nullable disable
                 WriteLiteral("                            <li class=\"nav-item text-right\">\r\n                                ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "02a68637db730cc7c897c3cab8462c9d0c6b789f24465", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "02a68637db730cc7c897c3cab8462c9d0c6b789f24401", async() => {
                     WriteLiteral("\r\n                                    <button type=\"submit\" class=\"nav-link text-dark btn border-0\">\r\n                                        Salir\r\n                                    </button>\r\n                                ");
                 }
                 );
@@ -298,7 +298,7 @@ using ExamenFinalBryan.domain.Models.DataTransferModels;
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n                            </li>\r\n");
                 WriteLiteral("                            <li class=\"nav-item text-right\">\r\n                                ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "02a68637db730cc7c897c3cab8462c9d0c6b789f26799", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "02a68637db730cc7c897c3cab8462c9d0c6b789f26735", async() => {
                     WriteLiteral("Automóviles");
                 }
                 );
@@ -318,7 +318,7 @@ using ExamenFinalBryan.domain.Models.DataTransferModels;
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n                            </li>\r\n                            <li class=\"nav-item text-right\">\r\n                                ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "02a68637db730cc7c897c3cab8462c9d0c6b789f28550", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "02a68637db730cc7c897c3cab8462c9d0c6b789f28486", async() => {
                     WriteLiteral("Clientes");
                 }
                 );
@@ -338,7 +338,7 @@ using ExamenFinalBryan.domain.Models.DataTransferModels;
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n                            </li>\r\n                            <li class=\"nav-item text-right\">\r\n                                ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "02a68637db730cc7c897c3cab8462c9d0c6b789f30298", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "02a68637db730cc7c897c3cab8462c9d0c6b789f30234", async() => {
                     WriteLiteral("Empleados");
                 }
                 );
@@ -358,7 +358,7 @@ using ExamenFinalBryan.domain.Models.DataTransferModels;
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n                            </li>\r\n                            <li class=\"nav-item text-right\">\r\n                                ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "02a68637db730cc7c897c3cab8462c9d0c6b789f32047", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "02a68637db730cc7c897c3cab8462c9d0c6b789f31983", async() => {
                     WriteLiteral("Ventas");
                 }
                 );
@@ -378,7 +378,7 @@ using ExamenFinalBryan.domain.Models.DataTransferModels;
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n                            </li>\r\n                             <li class=\"nav-item text-right\">\r\n                                ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "02a68637db730cc7c897c3cab8462c9d0c6b789f33794", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "02a68637db730cc7c897c3cab8462c9d0c6b789f33730", async() => {
                     WriteLiteral("Reporte");
                 }
                 );
@@ -422,7 +422,7 @@ using ExamenFinalBryan.domain.Models.DataTransferModels;
                                     </button>
                                     <div class=""dropdown-menu"" aria-labelledby=""dropdownMantenimiento"">
                                         ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "02a68637db730cc7c897c3cab8462c9d0c6b789f36558", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "02a68637db730cc7c897c3cab8462c9d0c6b789f36494", async() => {
                     WriteLiteral("Roles");
                 }
                 );
@@ -441,7 +441,7 @@ using ExamenFinalBryan.domain.Models.DataTransferModels;
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n                                        ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "02a68637db730cc7c897c3cab8462c9d0c6b789f38122", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "02a68637db730cc7c897c3cab8462c9d0c6b789f38058", async() => {
                     WriteLiteral("Usuarios");
                 }
                 );
@@ -477,7 +477,7 @@ using ExamenFinalBryan.domain.Models.DataTransferModels;
 #line hidden
 #nullable disable
                 WriteLiteral("\r\n        </main>\r\n    </div>\r\n    ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "02a68637db730cc7c897c3cab8462c9d0c6b789f40545", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "02a68637db730cc7c897c3cab8462c9d0c6b789f40481", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -491,7 +491,7 @@ using ExamenFinalBryan.domain.Models.DataTransferModels;
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n    ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "02a68637db730cc7c897c3cab8462c9d0c6b789f41646", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "02a68637db730cc7c897c3cab8462c9d0c6b789f41582", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -505,7 +505,7 @@ using ExamenFinalBryan.domain.Models.DataTransferModels;
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n    ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "02a68637db730cc7c897c3cab8462c9d0c6b789f42747", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "02a68637db730cc7c897c3cab8462c9d0c6b789f42683", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();

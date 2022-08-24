@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExamenFinalBryan.infraestructure.Repository.UnitOfWork
+namespace Proyecto.infraestructure.Repository.UnitOfWork
 {
     public interface IUnitOfWork<out TContext>
         where TContext : DbContext

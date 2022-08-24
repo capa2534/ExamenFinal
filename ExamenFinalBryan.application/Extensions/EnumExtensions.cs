@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExamenFinalBryan.application.Extensions
+namespace Proyecto.application.Extensions
 {
     public static class EnumExtensions
     {

@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExamenFinalBryan.infraestructure.Repository.UnitOfWork
+namespace Proyecto.infraestructure.Repository.UnitOfWork
 {
     public class UnitOfWork<TContext> : IUnitOfWork<TContext>, IDisposable
         where TContext : DbContext

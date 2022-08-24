@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ExamenFinalBryan.responsive.Controllers
+namespace Proyecto.responsive.Controllers
 {
     public class EnviarCorreoController : Controller
     {

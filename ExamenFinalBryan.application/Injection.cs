@@ -1,6 +1,6 @@
-﻿using ExamenFinalBryan.application.Configurations;
-using ExamenFinalBryan.application.Extensions;
-using ExamenFinalBryan.application.Handlers;
+﻿using Proyecto.application.Configurations;
+using Proyecto.application.Extensions;
+using Proyecto.application.Handlers;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.Extensions.Configuration;
@@ -13,7 +13,7 @@ using System.Security.Claims;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExamenFinalBryan.application
+namespace Proyecto.application
 {
     public static class Injection
     {

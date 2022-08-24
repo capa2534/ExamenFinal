@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExamenFinalBryan.infraestructure.Repository.UnitOfWork
+namespace Proyecto.infraestructure.Repository.UnitOfWork
 {
     public static class UnitOfWorkServiceCollectionExtensions
     {

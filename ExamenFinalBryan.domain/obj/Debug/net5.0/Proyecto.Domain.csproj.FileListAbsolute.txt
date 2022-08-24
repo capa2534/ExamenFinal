@@ -1,0 +1,12 @@
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.domain\bin\Debug\net5.0\Proyecto.Domain.deps.json
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.domain\bin\Debug\net5.0\Proyecto.Domain.dll
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.domain\bin\Debug\net5.0\Proyecto.Domain.pdb
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.domain\obj\Debug\net5.0\Proyecto.Domain.csproj.AssemblyReference.cache
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.domain\obj\Debug\net5.0\Proyecto.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.domain\obj\Debug\net5.0\Proyecto.Domain.AssemblyInfoInputs.cache
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.domain\obj\Debug\net5.0\Proyecto.Domain.AssemblyInfo.cs
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.domain\obj\Debug\net5.0\Proyecto.Domain.csproj.CoreCompileInputs.cache
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.domain\obj\Debug\net5.0\Proyecto.Domain.dll
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.domain\obj\Debug\net5.0\refint\Proyecto.Domain.dll
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.domain\obj\Debug\net5.0\Proyecto.Domain.pdb
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.domain\obj\Debug\net5.0\ref\Proyecto.Domain.dll

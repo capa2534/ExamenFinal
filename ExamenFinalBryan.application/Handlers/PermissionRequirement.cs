@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExamenFinalBryan.application.Handlers
+namespace Proyecto.application.Handlers
 {
     public class PermissionRequirement : IAuthorizationRequirement
     {

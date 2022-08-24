@@ -6,7 +6,7 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExamenFinalBryan.infraestructure.Repository
+namespace Proyecto.infraestructure.Repository
 {
     public class Repository<TEntity> : IRepository<TEntity>, IDisposable
         where TEntity : class

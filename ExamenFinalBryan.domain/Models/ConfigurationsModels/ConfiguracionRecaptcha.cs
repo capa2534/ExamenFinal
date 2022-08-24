@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExamenFinalBryan.domain.Models.ConfigurationsModels
+namespace Proyecto.domain.Models.ConfigurationsModels
 {
     public class ConfiguracionRecaptcha
     {

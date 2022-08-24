@@ -1,0 +1,15 @@
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.application\bin\Debug\net5.0\Proyecto.Application.deps.json
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.application\bin\Debug\net5.0\Proyecto.Application.dll
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.application\bin\Debug\net5.0\Proyecto.Application.pdb
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.application\bin\Debug\net5.0\Proyecto.Domain.dll
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.application\bin\Debug\net5.0\Proyecto.Domain.pdb
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.application\obj\Debug\net5.0\Proyecto.Application.csproj.AssemblyReference.cache
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.application\obj\Debug\net5.0\Proyecto.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.application\obj\Debug\net5.0\Proyecto.Application.AssemblyInfoInputs.cache
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.application\obj\Debug\net5.0\Proyecto.Application.AssemblyInfo.cs
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.application\obj\Debug\net5.0\Proyecto.Application.csproj.CoreCompileInputs.cache
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.application\obj\Debug\net5.0\Proyecto.Application.csproj.CopyComplete
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.application\obj\Debug\net5.0\Proyecto.Application.dll
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.application\obj\Debug\net5.0\refint\Proyecto.Application.dll
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.application\obj\Debug\net5.0\Proyecto.Application.pdb
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.application\obj\Debug\net5.0\ref\Proyecto.Application.dll

@@ -1,13 +1,13 @@
-﻿using ExamenFinalBryan.domain.Models.DataModels;
-using ExamenFinalBryan.infraestructure.Data;
-using ExamenFinalBryan.infraestructure.Repository;
+﻿using Proyecto.domain.Models.DataModels;
+using Proyecto.infraestructure.Data;
+using Proyecto.infraestructure.Repository;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExamenFinalBryan.infraestructure.Repositories
+namespace Proyecto.infraestructure.Repositories
 {
     public class EmpleadoRepository : Repository<Empleado>, IRepository<Empleado>
     {

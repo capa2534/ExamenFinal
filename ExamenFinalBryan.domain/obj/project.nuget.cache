@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ocn77PyhrimBptpirfDU/KkAze+lpCWwfHIUXbHRHIbuoPaGHp8vh0jQgNYjCnK1XOK8YdP+SChSiL7YdzzOMQ==",
+  "dgSpecHash": "joX/Rxxx1aZjk9rrOid7H5+40CSEOJQmdET5JeSbmIOYDdewUbJO/8NJhFiQ0c5N1MIRJuehwzPBWyZWRXBbPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.domain\\ExamenFinalBryan.domain.csproj",
+  "projectFilePath": "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.domain\\Proyecto.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\valer\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\valer\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

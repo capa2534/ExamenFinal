@@ -5,7 +5,7 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExamenFinalBryan.infraestructure.Repository
+namespace Proyecto.infraestructure.Repository
 {
     public interface IRepository<TEntity>
         where TEntity : class

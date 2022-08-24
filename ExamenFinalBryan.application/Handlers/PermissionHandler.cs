@@ -1,4 +1,4 @@
-﻿using ExamenFinalBryan.application.Extensions;
+﻿using Proyecto.application.Extensions;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using System;
@@ -8,7 +8,7 @@ using System.Security.Claims;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExamenFinalBryan.application.Handlers
+namespace Proyecto.application.Handlers
 {
     public class PermissionHandler : AuthorizationHandler<PermissionRequirement>
     {

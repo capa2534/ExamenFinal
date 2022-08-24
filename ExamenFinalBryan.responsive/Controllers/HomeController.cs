@@ -1,5 +1,5 @@
-﻿using ExamenFinalBryan.domain.Models;
-using ExamenFinalBryan.domain.Models.ViewModels;
+﻿using Proyecto.domain.Models;
+using Proyecto.domain.Models.ViewModels;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
@@ -9,7 +9,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ExamenFinalBryan.responsive.Controllers
+namespace Proyecto.responsive.Controllers
 {
     [AllowAnonymous]
     public class HomeController : Controller

@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExamenFinalBryan.domain.Models.Entities
+namespace Proyecto.domain.Models.Entities
 {
     public class Role
     {

@@ -2759,33 +2759,33 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "ExamenFinalBryan.application/1.0.0": {
+      "Proyecto.Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
-          "ExamenFinalBryan.domain": "1.0.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "5.0.17",
           "Microsoft.AspNetCore.Identity": "2.2.0",
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.17"
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.17",
+          "Proyecto.Domain": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/ExamenFinalBryan.application.dll": {}
+          "bin/placeholder/Proyecto.Application.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ExamenFinalBryan.application.dll": {}
+          "bin/placeholder/Proyecto.Application.dll": {}
         }
       },
-      "ExamenFinalBryan.domain/1.0.0": {
+      "Proyecto.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.2.0"
         },
         "compile": {
-          "bin/placeholder/ExamenFinalBryan.domain.dll": {}
+          "bin/placeholder/Proyecto.Domain.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ExamenFinalBryan.domain.dll": {}
+          "bin/placeholder/Proyecto.Domain.dll": {}
         }
       }
     }
@@ -8736,21 +8736,19 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "ExamenFinalBryan.application/1.0.0": {
+    "Proyecto.Application/1.0.0": {
       "type": "project",
-      "path": "../ExamenFinalBryan.application/ExamenFinalBryan.application.csproj",
-      "msbuildProject": "../ExamenFinalBryan.application/ExamenFinalBryan.application.csproj"
+      "path": "../ExamenFinalBryan.application/Proyecto.Application.csproj",
+      "msbuildProject": "../ExamenFinalBryan.application/Proyecto.Application.csproj"
     },
-    "ExamenFinalBryan.domain/1.0.0": {
+    "Proyecto.Domain/1.0.0": {
       "type": "project",
-      "path": "../ExamenFinalBryan.domain/ExamenFinalBryan.domain.csproj",
-      "msbuildProject": "../ExamenFinalBryan.domain/ExamenFinalBryan.domain.csproj"
+      "path": "../ExamenFinalBryan.domain/Proyecto.Domain.csproj",
+      "msbuildProject": "../ExamenFinalBryan.domain/Proyecto.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "ExamenFinalBryan.application >= 1.0.0",
-      "ExamenFinalBryan.domain >= 1.0.0",
       "Microsoft.AspNetCore.Authentication.Google >= 5.0.17",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 5.0.17",
       "Microsoft.AspNetCore.Identity >= 2.2.0",
@@ -8760,6 +8758,8 @@
       "Microsoft.EntityFrameworkCore.Tools >= 5.0.17",
       "Microsoft.Extensions.Options >= 5.0.0",
       "Microsoft.Extensions.Options.ConfigurationExtensions >= 5.0.0",
+      "Proyecto.Application >= 1.0.0",
+      "Proyecto.Domain >= 1.0.0",
       "System.Configuration.ConfigurationManager >= 5.0.0"
     ]
   },
@@ -8769,9 +8769,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.infraestructure\\ExamenFinalBryan.infraestructure.csproj",
-      "projectName": "ExamenFinalBryan.infraestructure",
-      "projectPath": "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.infraestructure\\ExamenFinalBryan.infraestructure.csproj",
+      "projectUniqueName": "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.infraestructure\\Proyecto.Infraestructure.csproj",
+      "projectName": "Proyecto.Infraestructure",
+      "projectPath": "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.infraestructure\\Proyecto.Infraestructure.csproj",
       "packagesPath": "C:\\Users\\valer\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.infraestructure\\obj\\",
       "projectStyle": "PackageReference",
@@ -8790,11 +8790,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.application\\ExamenFinalBryan.application.csproj": {
-              "projectPath": "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.application\\ExamenFinalBryan.application.csproj"
+            "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.application\\Proyecto.Application.csproj": {
+              "projectPath": "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.application\\Proyecto.Application.csproj"
             },
-            "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.domain\\ExamenFinalBryan.domain.csproj": {
-              "projectPath": "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.domain\\ExamenFinalBryan.domain.csproj"
+            "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.domain\\Proyecto.Domain.csproj": {
+              "projectPath": "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.domain\\Proyecto.Domain.csproj"
             }
           }
         }

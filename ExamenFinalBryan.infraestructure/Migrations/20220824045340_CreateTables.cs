@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace ExamenFinalBryan.infraestructure.Migrations
+namespace Proyecto.infraestructure.Migrations
 {
     public partial class CreateTables : Migration
     {

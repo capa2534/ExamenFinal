@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ExamenFinalBryan.responsive
+namespace Proyecto.responsive
 {
     public class Program
     {

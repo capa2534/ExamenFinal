@@ -1,7 +1,7 @@
-﻿using ExamenFinalBryan.application.Contracts;
-using ExamenFinalBryan.domain.Models.ConfigurationsModels;
-using ExamenFinalBryan.domain.Models.InputModels;
-using ExamenFinalBryan.domain.Models.MailModels;
+﻿using Proyecto.application.Contracts;
+using Proyecto.domain.Models.ConfigurationsModels;
+using Proyecto.domain.Models.InputModels;
+using Proyecto.domain.Models.MailModels;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting.Server;
@@ -17,7 +17,7 @@ using System.Linq;
 using System.Net;
 using System.Threading.Tasks;
 
-namespace ExamenFinalBryan.responsive.Controllers
+namespace Proyecto.responsive.Controllers
 {
     [Route("accounts")]
     [AllowAnonymous]

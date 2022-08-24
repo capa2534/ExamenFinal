@@ -1,14 +1,14 @@
 
-using ExamenFinalBryan.application;
-using ExamenFinalBryan.application.Components;
-using ExamenFinalBryan.application.Contracts;
-using ExamenFinalBryan.domain.Models.ConfigurationsModels;
-using ExamenFinalBryan.domain.Models.DataModels;
-using ExamenFinalBryan.domain.Models.MailModels;
-using ExamenFinalBryan.infraestructure;
-using ExamenFinalBryan.infraestructure.Data;
-using ExamenFinalBryan.infraestructure.Repositories;
-using ExamenFinalBryan.infraestructure.Repository.UnitOfWork;
+using Proyecto.application;
+using Proyecto.application.Components;
+using Proyecto.application.Contracts;
+using Proyecto.domain.Models.ConfigurationsModels;
+using Proyecto.domain.Models.DataModels;
+using Proyecto.domain.Models.MailModels;
+using Proyecto.infraestructure;
+using Proyecto.infraestructure.Data;
+using Proyecto.infraestructure.Repositories;
+using Proyecto.infraestructure.Repository.UnitOfWork;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Builder;
@@ -25,7 +25,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ExamenFinalBryan.responsive
+namespace Proyecto.responsive
 {
     public class Startup
     {

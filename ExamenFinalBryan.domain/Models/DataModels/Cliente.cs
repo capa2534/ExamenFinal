@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExamenFinalBryan.domain.Models.DataModels
+namespace Proyecto.domain.Models.DataModels
 {
 
     public class Cliente

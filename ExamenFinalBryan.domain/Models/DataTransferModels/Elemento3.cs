@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExamenFinalBryan.domain.Models.DataTransferModels
+namespace Proyecto.domain.Models.DataTransferModels
 {
 
     public class Elemento3

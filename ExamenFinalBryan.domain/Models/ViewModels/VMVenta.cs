@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExamenFinalBryan.domain.Models.ViewModels
+namespace Proyecto.domain.Models.ViewModels
 {
     public class VMVenta
     {

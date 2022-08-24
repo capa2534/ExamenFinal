@@ -2177,17 +2177,17 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "ExamenFinalBryan.domain/1.0.0": {
+      "Proyecto.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.2.0"
         },
         "compile": {
-          "bin/placeholder/ExamenFinalBryan.domain.dll": {}
+          "bin/placeholder/Proyecto.Domain.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ExamenFinalBryan.domain.dll": {}
+          "bin/placeholder/Proyecto.Domain.dll": {}
         }
       }
     }
@@ -7005,18 +7005,18 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "ExamenFinalBryan.domain/1.0.0": {
+    "Proyecto.Domain/1.0.0": {
       "type": "project",
-      "path": "../ExamenFinalBryan.domain/ExamenFinalBryan.domain.csproj",
-      "msbuildProject": "../ExamenFinalBryan.domain/ExamenFinalBryan.domain.csproj"
+      "path": "../ExamenFinalBryan.domain/Proyecto.Domain.csproj",
+      "msbuildProject": "../ExamenFinalBryan.domain/Proyecto.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "ExamenFinalBryan.domain >= 1.0.0",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 5.0.17",
       "Microsoft.AspNetCore.Identity >= 2.2.0",
-      "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 5.0.17"
+      "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 5.0.17",
+      "Proyecto.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -7025,9 +7025,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.application\\ExamenFinalBryan.application.csproj",
-      "projectName": "ExamenFinalBryan.application",
-      "projectPath": "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.application\\ExamenFinalBryan.application.csproj",
+      "projectUniqueName": "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.application\\Proyecto.Application.csproj",
+      "projectName": "Proyecto.Application",
+      "projectPath": "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.application\\Proyecto.Application.csproj",
       "packagesPath": "C:\\Users\\valer\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.application\\obj\\",
       "projectStyle": "PackageReference",
@@ -7046,8 +7046,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.domain\\ExamenFinalBryan.domain.csproj": {
-              "projectPath": "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.domain\\ExamenFinalBryan.domain.csproj"
+            "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.domain\\Proyecto.Domain.csproj": {
+              "projectPath": "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.domain\\Proyecto.Domain.csproj"
             }
           }
         }

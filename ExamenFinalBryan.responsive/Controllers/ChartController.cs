@@ -1,6 +1,6 @@
-﻿using ExamenFinalBryan.application.Contracts;
-using ExamenFinalBryan.domain.Models;
-using ExamenFinalBryan.domain.Models.ViewModels;
+﻿using Proyecto.application.Contracts;
+using Proyecto.domain.Models;
+using Proyecto.domain.Models.ViewModels;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -11,7 +11,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ExamenFinalBryan.responsive.Controllers
+namespace Proyecto.responsive.Controllers
 {
     [AllowAnonymous]
     public class ChartController : Controller

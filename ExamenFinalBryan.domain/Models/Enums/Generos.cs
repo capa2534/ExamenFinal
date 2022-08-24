@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExamenFinalBryan.domain.Models.Enums
+namespace Proyecto.domain.Models.Enums
 {
     public enum Generos
     {

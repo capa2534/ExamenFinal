@@ -1,17 +1,17 @@
-﻿using ExamenFinalBryan.application.Contracts;
-using ExamenFinalBryan.domain.Models.DataModels;
-using ExamenFinalBryan.domain.Models.DataTransferModels;
-using ExamenFinalBryan.domain.Models.MailModels;
-using ExamenFinalBryan.infraestructure.Data;
-using ExamenFinalBryan.infraestructure.Repository;
-using ExamenFinalBryan.infraestructure.Repository.UnitOfWork;
+﻿using Proyecto.application.Contracts;
+using Proyecto.domain.Models.DataModels;
+using Proyecto.domain.Models.DataTransferModels;
+using Proyecto.domain.Models.MailModels;
+using Proyecto.infraestructure.Data;
+using Proyecto.infraestructure.Repository;
+using Proyecto.infraestructure.Repository.UnitOfWork;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ExamenFinalBryan.responsive.Controllers
+namespace Proyecto.responsive.Controllers
 {
 
     public class VentasController : Controller

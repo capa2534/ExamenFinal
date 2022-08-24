@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExamenFinalBryan.domain.Models.InputModels
+namespace Proyecto.domain.Models.InputModels
 {
     public class RegisterInputModel
     {

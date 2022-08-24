@@ -1,6 +1,6 @@
 ﻿@model List<Elemento>
 @{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Chart Page";
     int elementos = 0;
 }
 <style>
@@ -76,7 +76,7 @@
         
         function resumenVenta(){
 
-            fetch("Home/resumenVenta")
+            fetch("Chart/resumenVenta")
             .then((response) => {
                 return response.ok? response.json() : Promise.reject(response);
             })
@@ -126,7 +126,7 @@
 
         function resumenAuto() {
 
-            fetch("Home/resumenAuto")
+            fetch("Chart/resumenAuto")
                 .then((response) => {
                     return response.ok ? response.json() : Promise.reject(response);
                 })

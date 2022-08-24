@@ -1,6 +1,6 @@
 using System;
 
-namespace ExamenFinalBryan.domain.Models.ViewModels
+namespace Proyecto.domain.Models.ViewModels
 {
     public class ErrorViewModel
     {

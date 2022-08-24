@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jtzLEiHInWVlyjY3FQ/cGfyyeLoMjY+GoRuvlF2UcNn6tVmWTjHNI92VpA66PFNq1pEKD+ZSu51oH3EBX6Lqgg==",
+  "dgSpecHash": "poMbKOWRGgA4/rbZtHfoqxyXpHojnsgqLOeARXnI9GzNpJWbnM9Iw9Q0niwlxI72RZMOQeseIXrat3BYa0SrQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.infraestructure\\ExamenFinalBryan.infraestructure.csproj",
+  "projectFilePath": "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.infraestructure\\Proyecto.Infraestructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\valer\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\valer\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",

@@ -1,10 +1,10 @@
-﻿using ExamenFinalBryan.application.Contracts;
-using ExamenFinalBryan.application.Handlers;
-using ExamenFinalBryan.domain.Models.DataModels;
-using ExamenFinalBryan.infraestructure.Data;
-using ExamenFinalBryan.infraestructure.Repositories;
-using ExamenFinalBryan.infraestructure.Repository;
-using ExamenFinalBryan.infraestructure.Repository.UnitOfWork;
+﻿using Proyecto.application.Contracts;
+using Proyecto.application.Handlers;
+using Proyecto.domain.Models.DataModels;
+using Proyecto.infraestructure.Data;
+using Proyecto.infraestructure.Repositories;
+using Proyecto.infraestructure.Repository;
+using Proyecto.infraestructure.Repository.UnitOfWork;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -12,7 +12,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ExamenFinalBryan.responsive.Controllers
+namespace Proyecto.responsive.Controllers
 {
     //public class RentController : Controller
     //{
