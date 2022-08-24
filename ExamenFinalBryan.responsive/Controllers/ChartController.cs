@@ -33,16 +33,14 @@ namespace Proyecto.responsive.Controllers
         {
 
             List<VMAutos> Lista = (from tbauto in Context.Autos
-                                   group tbauto by tbauto.Placa into grupo
+                                   group tbauto by tbauto.Estado into grupo
 
                                    orderby grupo.Count() descending
                                    select new VMAutos
                                    {
                                        auto = grupo.Key,
-                                       precio = grupo.Key,
-                                   }).Take(4).ToList();
-
-
+                                       precio = grupo.Count(),
+                                   }).ToList();
 
             return StatusCode(StatusCodes.Status200OK, Lista);
         }
@@ -51,7 +49,7 @@ namespace Proyecto.responsive.Controllers
         {
 
             DateTime FechaInicio = DateTime.Now;
-            FechaInicio = FechaInicio.AddDays(-60);
+            FechaInicio = FechaInicio.AddDays(-15);
 
             List<VMVenta> Lista = (from tbventas in Context.Ventas
                                    where tbventas.Fecha_hora.Date >= FechaInicio.Date
@@ -65,8 +63,7 @@ namespace Proyecto.responsive.Controllers
 
 
             return StatusCode(StatusCodes.Status200OK, Lista);
-        }
-
+        }  
 
         public IActionResult Privacy()
         {

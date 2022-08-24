@@ -10,7 +10,7 @@ namespace Proyecto.domain.Models.ViewModels
     {
         public string auto { get; set; }
 
-        public string precio { get; set; }
+        public int precio { get; set; }
 
     }
 }
