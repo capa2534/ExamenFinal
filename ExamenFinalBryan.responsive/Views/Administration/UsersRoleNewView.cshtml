@@ -1,0 +1,62 @@
+﻿@model RoleUserViewModel
+<style>
+    .header {
+        margin-bottom: 20px;
+    }
+
+        .header h3 {
+            margin-bottom: 5px;
+            margin-top: 25px;
+        }
+
+    .separator {
+        height: 1px;
+        background: #e8e8e8;
+        margin: 0px -25px;
+    }
+
+    .inputs {
+        margin-top: 25px;
+    }
+
+        .inputs label {
+            letter-spacing: 1px;
+            margin-bottom: 7px;
+        }
+
+        .inputs #submit #cancel {
+            width: 50%;
+            margin-top: 20px;
+            padding: 15px 0;
+            letter-spacing: 1px;
+        }
+</style>
+<div class="form-row">
+    <div class="form-group col-7">
+        <form method="post">
+            <div class="form-group header">
+                <h3>Roles Disponibles</h3>
+            </div>
+            <div class="form-group">
+                <div class="clearfix separator"></div>
+            </div>
+            @for (int i = 0; i < Model.Roles.Count; i++)
+            {
+                <div class="input-group inputs">
+                    <div class="col-2">
+                        <input type="hidden" asp-for="@Model.Roles[i].Role" />
+                        <input type="checkbox" asp-for="@Model.Roles[i].Selected" />
+                    </div>
+                    <div class="col-5">
+                        @Model.Roles[i].Role
+                    </div>
+                </div>
+            }
+            <partial name="_NewPartialViewRoles" model="Model.UserId" />
+        </form>
+    </div>
+</div>
+@section Scripts
+{
+    <partial name="_ValidationScriptsPartial" />
+}

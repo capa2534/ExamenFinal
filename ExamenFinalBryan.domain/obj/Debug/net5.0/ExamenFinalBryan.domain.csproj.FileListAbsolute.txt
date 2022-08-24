@@ -1,0 +1,35 @@
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.domain\bin\Debug\net5.0\ExamenFinalBryan.domain.deps.json
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.domain\bin\Debug\net5.0\ExamenFinalBryan.domain.dll
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.domain\bin\Debug\net5.0\ref\ExamenFinalBryan.domain.dll
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.domain\bin\Debug\net5.0\ExamenFinalBryan.domain.pdb
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.domain\obj\Debug\net5.0\ExamenFinalBryan.domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.domain\obj\Debug\net5.0\ExamenFinalBryan.domain.AssemblyInfoInputs.cache
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.domain\obj\Debug\net5.0\ExamenFinalBryan.domain.AssemblyInfo.cs
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.domain\obj\Debug\net5.0\ExamenFinalBryan.domain.csproj.CoreCompileInputs.cache
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.domain\obj\Debug\net5.0\ExamenFinalBryan.domain.dll
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.domain\obj\Debug\net5.0\ref\ExamenFinalBryan.domain.dll
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.domain\obj\Debug\net5.0\ExamenFinalBryan.domain.pdb
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalBryan.domain\bin\Debug\net5.0\ExamenFinalBryan.domain.deps.json
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalBryan.domain\bin\Debug\net5.0\ExamenFinalBryan.domain.dll
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalBryan.domain\bin\Debug\net5.0\ref\ExamenFinalBryan.domain.dll
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalBryan.domain\bin\Debug\net5.0\ExamenFinalBryan.domain.pdb
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalBryan.domain\obj\Debug\net5.0\ExamenFinalBryan.domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalBryan.domain\obj\Debug\net5.0\ExamenFinalBryan.domain.AssemblyInfoInputs.cache
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalBryan.domain\obj\Debug\net5.0\ExamenFinalBryan.domain.AssemblyInfo.cs
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalBryan.domain\obj\Debug\net5.0\ExamenFinalBryan.domain.csproj.CoreCompileInputs.cache
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalBryan.domain\obj\Debug\net5.0\ExamenFinalBryan.domain.dll
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalBryan.domain\obj\Debug\net5.0\ref\ExamenFinalBryan.domain.dll
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalBryan.domain\obj\Debug\net5.0\ExamenFinalBryan.domain.pdb
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalBryan.domain\obj\Debug\net5.0\ExamenFinalBryan.domain.csproj.AssemblyReference.cache
+C:\Users\capa6\Desktop\New folder (3)\ExamenFinal\ExamenFinalBryan.domain\bin\Debug\net5.0\ExamenFinalBryan.domain.deps.json
+C:\Users\capa6\Desktop\New folder (3)\ExamenFinal\ExamenFinalBryan.domain\bin\Debug\net5.0\ExamenFinalBryan.domain.dll
+C:\Users\capa6\Desktop\New folder (3)\ExamenFinal\ExamenFinalBryan.domain\bin\Debug\net5.0\ref\ExamenFinalBryan.domain.dll
+C:\Users\capa6\Desktop\New folder (3)\ExamenFinal\ExamenFinalBryan.domain\bin\Debug\net5.0\ExamenFinalBryan.domain.pdb
+C:\Users\capa6\Desktop\New folder (3)\ExamenFinal\ExamenFinalBryan.domain\obj\Debug\net5.0\ExamenFinalBryan.domain.csproj.AssemblyReference.cache
+C:\Users\capa6\Desktop\New folder (3)\ExamenFinal\ExamenFinalBryan.domain\obj\Debug\net5.0\ExamenFinalBryan.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\capa6\Desktop\New folder (3)\ExamenFinal\ExamenFinalBryan.domain\obj\Debug\net5.0\ExamenFinalBryan.domain.AssemblyInfoInputs.cache
+C:\Users\capa6\Desktop\New folder (3)\ExamenFinal\ExamenFinalBryan.domain\obj\Debug\net5.0\ExamenFinalBryan.domain.AssemblyInfo.cs
+C:\Users\capa6\Desktop\New folder (3)\ExamenFinal\ExamenFinalBryan.domain\obj\Debug\net5.0\ExamenFinalBryan.domain.csproj.CoreCompileInputs.cache
+C:\Users\capa6\Desktop\New folder (3)\ExamenFinal\ExamenFinalBryan.domain\obj\Debug\net5.0\ExamenFinalBryan.domain.dll
+C:\Users\capa6\Desktop\New folder (3)\ExamenFinal\ExamenFinalBryan.domain\obj\Debug\net5.0\ref\ExamenFinalBryan.domain.dll
+C:\Users\capa6\Desktop\New folder (3)\ExamenFinal\ExamenFinalBryan.domain\obj\Debug\net5.0\ExamenFinalBryan.domain.pdb

@@ -1,0 +1,104 @@
+﻿@model UserViewModel
+
+<style>
+
+    .header {
+        margin-bottom: 20px;
+    }
+
+        .header h3 {
+            margin-bottom: 5px;
+            margin-top: 25px;
+        }
+
+    .separator {
+        height: 1px;
+        background: #e8e8e8;
+        margin: 0px -25px;
+    }
+
+    .inputs {
+        margin-top: 25px;
+    }
+
+        .inputs label {
+            letter-spacing: 1px;
+            margin-bottom: 7px;
+        }
+
+        .inputs #submit {
+            width: 100%;
+            margin-top: 20px;
+            padding: 15px 0;
+            letter-spacing: 1px;
+        }
+</style>
+
+<div class="form-row">
+    <div class="form-group col-10">
+        <div class="form-group header">
+            <h3>Usuarios</h3>
+        </div>
+
+        <div class="form-group">
+            <div class="clearfix separator"></div>
+        </div>
+
+        <div class="input-group">
+            <a class="btn btn-outline-info" asp-action="upsert">
+                <i class="fa-solid fa-circle-plus"></i> Crear un Rol
+            </a>
+        </div>
+
+        @foreach (var user in Model.Users)
+        {
+            <div id="user_@user.Id" class="input-group inputs">
+                <div class="col-4">@user.Email</div>
+                <div class="col-4 text-right">
+                    <a class="btn btn-outline-dark" asp-action="rolesuser" asp-route-id="@user.Id">
+                        <i class="fa-solid fa-user"></i>
+                    </a>
+                </div>
+            </div>
+        }
+
+    </div>
+</div>
+
+@section Scripts
+{
+    <partial name="_ValidationScriptsPartial" />
+}
+
+<script>
+
+    function Delete(id) {
+        swal({
+            title: "Esta seguro que desea borrar el rol?",
+            text: "Los datos no pueden ser recuperados una vez que hayan sido borrados!",
+            icon: "warning",
+            buttons: true,
+            dangerMode: true
+        }).then((willDelete) => {
+            if (willDelete) {
+                $.ajax({
+                    type: "DELETE",
+                    url: "/administration/deleterole/" + id,
+                    success: function (data) {
+                        if (data.success) {
+                            toastr.success(data.message);
+                            $("#role_" + id).remove();
+
+                        }
+                        else {
+                            toastr.error(data.message);
+                        }
+                    }
+                });
+            }
+
+        });
+    }
+
+</script>
+

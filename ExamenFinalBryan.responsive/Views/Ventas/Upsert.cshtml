@@ -1,0 +1,275 @@
+﻿@model Ventas
+
+@{
+    ViewData["Title"] = "Upsert";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@*<style>
+        body {
+            background: -webkit-linear-gradient(left, #343a40,#3d444a,#363a3c, #3e4548, #3e4548, #363a3c, #3d444a, #343a40);
+        }
+    </style>*@
+
+<h1>Ventas</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Upsert">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <h4>Cliente Informacion</h4>
+            <div class="form-group row">
+                <label asp-for="Id_Cliente" class="form-text"></label>
+                <select asp-for="Id_Cliente" class="form-control"
+                        asp-items="@new SelectList(Model.Clientes, nameof(Elemento2.Id), nameof(Elemento2.Cedula))"
+                        onchange="ListarObjCliente(this);">
+                    <option>-- Seleccionar --</option>
+                </select>
+                <small class="form-text text-muted">
+                    Seleccionar Cliente.
+                </small>
+                <span asp-validation-for="Id_Cliente" class="text-danger"></span>
+            </div>
+
+            @*<div class="form-group">
+                    <label asp-for="Fecha_hora" class="control-label"></label>
+                    <input asp-for="Fecha_hora" class="form-control" />
+                    <span asp-validation-for="Fecha_hora" class="text-danger"></span>
+                </div>*@
+
+            @*<div class="form-group">
+                    <label asp-for="Cedula" class="control-label"></label>
+                    <input asp-for="Cedula" class="form-control" />
+                    <span asp-validation-for="Cedula" class="text-danger"></span>
+                </div>*@
+            <label asp-for="Nombre" class="control-label"></label>
+            <input type="text" id="txtnombrecliente" asp-for="Nombre" class="form-control" />
+
+            @*<div class="form-group">
+                    <label asp-for="Nombre" class="control-label"></label>
+                    <input asp-for="Nombre" class="form-control" />
+                    <span asp-validation-for="Nombre" class="text-danger"></span>
+                </div>*@
+            <label asp-for="CorreoElectronico" class="control-label"></label>
+            <input type="text" id="txtcorreoelectronico" asp-for="CorreoElectronico" class="form-control" />
+            @*<div class="form-group">
+                    <label asp-for="CorreoElectronico" class="control-label"></label>
+                    <input asp-for="CorreoElectronico" class="form-control" />
+                    <span asp-validation-for="CorreoElectronico" class="text-danger"></span>
+                </div>*@
+
+            <h4>Informacion de Auto a comprar </h4>
+
+            <div class="form-group row">
+                <label asp-for="Id_Auto" class="form-text"></label>
+                <select asp-for="Id_Auto" class="form-control"
+                        asp-items="@new SelectList(Model.Autos, nameof(Elemento3.Id), nameof(Elemento3.Placa))"
+                        onchange="ListarObjAuto(this);">
+                    <option>-- Seleccionar --</option>
+                </select>
+                <small class="form-text text-muted">
+                    Seleccionar Auto.
+                </small>
+                <span asp-validation-for="Id_Auto" class="text-danger"></span>
+            </div>
+
+            <label asp-for="Id_Auto" class="control-label"></label>
+            <input type="text" id="txtidauto" asp-for="Id_Auto" class="form-control" />
+
+            <label asp-for="Placa" class="control-label"></label>
+            <input type="text" id="txtplaca" asp-for="Placa" class="form-control" />
+
+            @*<div class="form-group">
+                <label asp-for="Placa" class="control-label"></label>
+                <input asp-for="Placa" class="form-control" />
+                <span asp-validation-for="Placa" class="text-danger"></span>
+                </div>*@
+
+
+            <label asp-for="Marca" class="control-label"></label>
+            <input type="text" id="txtMarca" asp-for="Marca" class="form-control" />
+
+
+
+            <label asp-for="Modelo" class="control-label"></label>
+            <input type="text" id="txtModelo" asp-for="Modelo" class="form-control" />
+
+
+            @*<div class="form-group">
+                <label asp-for="Modelo" class="control-label"></label>
+                <input asp-for="Modelo" class="form-control" />
+                <span asp-validation-for="Modelo" class="text-danger"></span>
+                </div>*@
+
+
+            <label asp-for="Annio" class="control-label"></label>
+            <input type="text" id="txtAnnio" asp-for="Annio" class="form-control" />
+
+            @*<div class="form-group">
+                    <label asp-for="Annio" class="control-label"></label>
+                    <input asp-for="Annio" class="form-control" />
+                    <span asp-validation-for="Annio" class="text-danger"></span>
+                </div>*@
+
+            <label asp-for="Precio" class="control-label"></label>
+            <input type="text" id="txtprecio" asp-for="Precio" class="form-control" />
+
+            @*<div class="form-group">
+                    <label asp-for="Precio" class="control-label"></label>
+                    <input asp-for="Precio" class="form-control" />
+                    <span asp-validation-for="Precio" class="text-danger"></span>
+                </div>*@
+
+
+            <h4>Informacion de Empelado que realiza la compra</h4>
+
+
+            <div class="form-group row">
+                <label asp-for="Id_Empleado" class="form-text"></label>
+                <select asp-for="Id_Empleado" class="form-control"
+                        asp-items="@new SelectList(Model.Empleados, nameof(Elemento2.Id), nameof(Elemento2.Cedula))"
+                        onchange="ListarObjEmpleado(this);">
+                    <option>-- Seleccionar --</option>
+                </select>
+                <small class="form-text text-muted">
+                    Seleccionar Empleado.
+                </small>
+                <span asp-validation-for="Id_Empleado" class="text-danger"></span>
+            </div>
+
+            <label asp-for="CedulaEmp" class="control-label"></label>
+            <input type="text" id="txtcedEmp" asp-for="CedulaEmp" class="form-control" />
+
+            <label asp-for="NombreEmp" class="control-label"></label>
+            <input type="text" id="txtnombreEmp" asp-for="NombreEmp" class="form-control" />
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+<script>
+    function ListarObjCliente(Selectcliente) {
+
+
+        var Id = $(Selectcliente).find(":selected").val();
+
+
+        $.ajax
+            (
+                {
+                    url: "/api/ventas/upsert/objcliente",
+                    data: { "Id": Id },
+                    type: "GET",
+                    dataType: "json",
+                    success: function (response) {
+                        if (!response.success) {
+                            toastr.error(response.error);
+                        }
+                        else {
+                            $.each
+                                (
+
+                                    response.content,
+                                    function (i, obj) {
+
+                                        $('#txtnombrecliente').val(obj.nombre);
+                                        $('#txtcorreoelectronico').val(obj.correoElectronico);
+                                    }
+                                );
+                        }
+                    }
+                }
+            );
+    }
+
+    function ListarObjAuto(Selectauto) {
+
+
+        var Id = $(Selectauto).find(":selected").val();
+
+
+        $.ajax
+            (
+                {
+                    url: "/api/ventas/upsert/objauto",
+                    data: { "Id": Id },
+                    type: "GET",
+                    dataType: "json",
+                    success: function (response) {
+                        if (!response.success) {
+                            toastr.error(response.error);
+                        }
+                        else {
+                            $.each
+                                (
+
+                                    response.content,
+                                    function (i, obj) {
+
+                                        $('#txtidauto').val(obj.id_Auto);
+                                        $('#txtAnnio').val(obj.annio);
+                                        $('#txtMarca').val(obj.marca);
+                                        $('#txtModelo').val(obj.modelo);
+                                        $('#txtplaca').val(obj.placa);
+                                        $('#txtprecio').val(obj.precio);
+
+
+                                    }
+                                );
+                        }
+                    }
+                }
+            );
+    }
+
+
+
+    function ListarObjEmpleado(Selectempleado) {
+
+
+        var Id = $(Selectempleado).find(":selected").val();
+
+
+        $.ajax
+            (
+                {
+                    url: "/api/ventas/upsert/objempleado",
+                    data: { "Id": Id },
+                    type: "GET",
+                    dataType: "json",
+                    success: function (response) {
+                        if (!response.success) {
+                            toastr.error(response.error);
+                        }
+                        else {
+                            $.each
+                                (
+
+                                    response.content,
+                                    function (i, obj) {
+
+                                        $('#txtnombreEmp').val(obj.nombre);
+                                        $('#txtcedEmp').val(obj.cedula);
+
+                                    }
+                                );
+                        }
+                    }
+                }
+            );
+    }
+
+</script>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+

@@ -1,0 +1,91 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - ExamenFinalBryan.responsive</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/vapor.css" />
+    <script src="https://kit.fontawesome.com/b4bbf55a6d.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">RentaCarFidelitas</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+
+                        @if (!User.Identity.IsAuthenticated)
+                        {
+                            <li class="nav-item text-right">
+                                <a class="nav-link text-dark" asp-controller="Accounts" asp-action="Register">Registrarme</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-controller="Accounts" asp-action="Login">Iniciar Sesión</a>
+                            </li>
+                        }
+                        else
+                        {
+                            <li class="nav-item text-right">
+                                <form asp-controller="Accounts" asp-action="Logout" method="post">
+                                    <button type="submit" class="nav-link text-dark btn border-0">
+                                        Salir
+                                    </button>
+                                </form>
+                            </li>
+
+                            <li class="nav-item text-right">
+                                <a class="nav-link text-dark" style="color: #00FFFF" asp-controller="Auto" asp-action="Index">Automóviles</a>
+                            </li>
+                            <li class="nav-item text-right">
+                                <a class="nav-link text-dark" style="color: #00FFFF" asp-controller="Cliente" asp-action="Index">Clientes</a>
+                            </li>
+                            <li class="nav-item text-right">
+                                <a class="nav-link text-dark" style="color: #00FFFF" asp-controller="Empleado" asp-action="Index">Empleados</a>
+                            </li>
+                            <li class="nav-item text-right">
+                                <a class="nav-link text-dark" style="color: #00FFFF" asp-controller="Ventas" asp-action="Index">Ventas</a>
+                            </li>
+                        }
+
+                        @if (User.IsInRole("Administrador"))
+                        {
+
+                            <li class="nav-item">
+                                <div class="dropdown">
+                                    <button type="button" id="dropdownMantenimiento" class="btn dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+                                        Mantenimiento
+                                    </button>
+                                    <div class="dropdown-menu" aria-labelledby="dropdownMantenimiento">
+                                        <a class="nav-link text-dark" asp-controller="Administration" asp-action="UsersIndex">Roles</a>
+                                        <a class="nav-link text-dark" asp-controller="Administration" asp-action="ListaUsuarios">Usuarios</a>
+                                    </div>
+                                </div>
+                            </li>
+
+                        }
+
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,35 @@
+C:\Users\svarg\Documents\Fidelitas\II CUATRI 2022\Programación Avanzada en Web\Semana 13\ExamenFinalSebas\ExamenFinalSebas.domain\bin\Debug\net5.0\ExamenFinalSebas.domain.deps.json
+C:\Users\svarg\Documents\Fidelitas\II CUATRI 2022\Programación Avanzada en Web\Semana 13\ExamenFinalSebas\ExamenFinalSebas.domain\bin\Debug\net5.0\ExamenFinalSebas.domain.dll
+C:\Users\svarg\Documents\Fidelitas\II CUATRI 2022\Programación Avanzada en Web\Semana 13\ExamenFinalSebas\ExamenFinalSebas.domain\bin\Debug\net5.0\ref\ExamenFinalSebas.domain.dll
+C:\Users\svarg\Documents\Fidelitas\II CUATRI 2022\Programación Avanzada en Web\Semana 13\ExamenFinalSebas\ExamenFinalSebas.domain\bin\Debug\net5.0\ExamenFinalSebas.domain.pdb
+C:\Users\svarg\Documents\Fidelitas\II CUATRI 2022\Programación Avanzada en Web\Semana 13\ExamenFinalSebas\ExamenFinalSebas.domain\obj\Debug\net5.0\ExamenFinalSebas.domain.csproj.AssemblyReference.cache
+C:\Users\svarg\Documents\Fidelitas\II CUATRI 2022\Programación Avanzada en Web\Semana 13\ExamenFinalSebas\ExamenFinalSebas.domain\obj\Debug\net5.0\ExamenFinalSebas.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svarg\Documents\Fidelitas\II CUATRI 2022\Programación Avanzada en Web\Semana 13\ExamenFinalSebas\ExamenFinalSebas.domain\obj\Debug\net5.0\ExamenFinalSebas.domain.AssemblyInfoInputs.cache
+C:\Users\svarg\Documents\Fidelitas\II CUATRI 2022\Programación Avanzada en Web\Semana 13\ExamenFinalSebas\ExamenFinalSebas.domain\obj\Debug\net5.0\ExamenFinalSebas.domain.AssemblyInfo.cs
+C:\Users\svarg\Documents\Fidelitas\II CUATRI 2022\Programación Avanzada en Web\Semana 13\ExamenFinalSebas\ExamenFinalSebas.domain\obj\Debug\net5.0\ExamenFinalSebas.domain.csproj.CoreCompileInputs.cache
+C:\Users\svarg\Documents\Fidelitas\II CUATRI 2022\Programación Avanzada en Web\Semana 13\ExamenFinalSebas\ExamenFinalSebas.domain\obj\Debug\net5.0\ExamenFinalSebas.domain.dll
+C:\Users\svarg\Documents\Fidelitas\II CUATRI 2022\Programación Avanzada en Web\Semana 13\ExamenFinalSebas\ExamenFinalSebas.domain\obj\Debug\net5.0\ref\ExamenFinalSebas.domain.dll
+C:\Users\svarg\Documents\Fidelitas\II CUATRI 2022\Programación Avanzada en Web\Semana 13\ExamenFinalSebas\ExamenFinalSebas.domain\obj\Debug\net5.0\ExamenFinalSebas.domain.pdb
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinalSebas\ExamenFinalSebas.domain\bin\Debug\net5.0\ExamenFinalSebas.domain.deps.json
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinalSebas\ExamenFinalSebas.domain\bin\Debug\net5.0\ExamenFinalSebas.domain.dll
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinalSebas\ExamenFinalSebas.domain\bin\Debug\net5.0\ref\ExamenFinalSebas.domain.dll
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinalSebas\ExamenFinalSebas.domain\bin\Debug\net5.0\ExamenFinalSebas.domain.pdb
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinalSebas\ExamenFinalSebas.domain\obj\Debug\net5.0\ExamenFinalSebas.domain.csproj.AssemblyReference.cache
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinalSebas\ExamenFinalSebas.domain\obj\Debug\net5.0\ExamenFinalSebas.domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinalSebas\ExamenFinalSebas.domain\obj\Debug\net5.0\ExamenFinalSebas.domain.AssemblyInfoInputs.cache
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinalSebas\ExamenFinalSebas.domain\obj\Debug\net5.0\ExamenFinalSebas.domain.AssemblyInfo.cs
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinalSebas\ExamenFinalSebas.domain\obj\Debug\net5.0\ExamenFinalSebas.domain.csproj.CoreCompileInputs.cache
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinalSebas\ExamenFinalSebas.domain\obj\Debug\net5.0\ExamenFinalSebas.domain.dll
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinalSebas\ExamenFinalSebas.domain\obj\Debug\net5.0\ref\ExamenFinalSebas.domain.dll
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinalSebas\ExamenFinalSebas.domain\obj\Debug\net5.0\ExamenFinalSebas.domain.pdb
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.domain\bin\Debug\net5.0\ExamenFinalSebas.domain.deps.json
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.domain\bin\Debug\net5.0\ExamenFinalSebas.domain.dll
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.domain\bin\Debug\net5.0\ref\ExamenFinalSebas.domain.dll
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.domain\bin\Debug\net5.0\ExamenFinalSebas.domain.pdb
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.domain\obj\Debug\net5.0\ExamenFinalSebas.domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.domain\obj\Debug\net5.0\ExamenFinalSebas.domain.AssemblyInfoInputs.cache
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.domain\obj\Debug\net5.0\ExamenFinalSebas.domain.AssemblyInfo.cs
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.domain\obj\Debug\net5.0\ExamenFinalSebas.domain.csproj.CoreCompileInputs.cache
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.domain\obj\Debug\net5.0\ExamenFinalSebas.domain.dll
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.domain\obj\Debug\net5.0\ref\ExamenFinalSebas.domain.dll
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.domain\obj\Debug\net5.0\ExamenFinalSebas.domain.pdb

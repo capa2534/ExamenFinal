@@ -1,0 +1,60 @@
+C:\Users\svarg\Documents\Fidelitas\II CUATRI 2022\Programación Avanzada en Web\Semana 13\ExamenFinalSebas\ExamenFinalSebas.infraestructure\bin\Debug\net5.0\ExamenFinalSebas.infraestructure.deps.json
+C:\Users\svarg\Documents\Fidelitas\II CUATRI 2022\Programación Avanzada en Web\Semana 13\ExamenFinalSebas\ExamenFinalSebas.infraestructure\bin\Debug\net5.0\ExamenFinalSebas.infraestructure.runtimeconfig.json
+C:\Users\svarg\Documents\Fidelitas\II CUATRI 2022\Programación Avanzada en Web\Semana 13\ExamenFinalSebas\ExamenFinalSebas.infraestructure\bin\Debug\net5.0\ExamenFinalSebas.infraestructure.runtimeconfig.dev.json
+C:\Users\svarg\Documents\Fidelitas\II CUATRI 2022\Programación Avanzada en Web\Semana 13\ExamenFinalSebas\ExamenFinalSebas.infraestructure\bin\Debug\net5.0\ExamenFinalSebas.infraestructure.dll
+C:\Users\svarg\Documents\Fidelitas\II CUATRI 2022\Programación Avanzada en Web\Semana 13\ExamenFinalSebas\ExamenFinalSebas.infraestructure\bin\Debug\net5.0\ref\ExamenFinalSebas.infraestructure.dll
+C:\Users\svarg\Documents\Fidelitas\II CUATRI 2022\Programación Avanzada en Web\Semana 13\ExamenFinalSebas\ExamenFinalSebas.infraestructure\bin\Debug\net5.0\ExamenFinalSebas.infraestructure.pdb
+C:\Users\svarg\Documents\Fidelitas\II CUATRI 2022\Programación Avanzada en Web\Semana 13\ExamenFinalSebas\ExamenFinalSebas.infraestructure\bin\Debug\net5.0\ExamenFinalSebas.application.dll
+C:\Users\svarg\Documents\Fidelitas\II CUATRI 2022\Programación Avanzada en Web\Semana 13\ExamenFinalSebas\ExamenFinalSebas.infraestructure\bin\Debug\net5.0\ExamenFinalSebas.domain.dll
+C:\Users\svarg\Documents\Fidelitas\II CUATRI 2022\Programación Avanzada en Web\Semana 13\ExamenFinalSebas\ExamenFinalSebas.infraestructure\bin\Debug\net5.0\ExamenFinalSebas.application.pdb
+C:\Users\svarg\Documents\Fidelitas\II CUATRI 2022\Programación Avanzada en Web\Semana 13\ExamenFinalSebas\ExamenFinalSebas.infraestructure\bin\Debug\net5.0\ExamenFinalSebas.domain.pdb
+C:\Users\svarg\Documents\Fidelitas\II CUATRI 2022\Programación Avanzada en Web\Semana 13\ExamenFinalSebas\ExamenFinalSebas.infraestructure\obj\Debug\net5.0\ExamenFinalSebas.infraestructure.csproj.AssemblyReference.cache
+C:\Users\svarg\Documents\Fidelitas\II CUATRI 2022\Programación Avanzada en Web\Semana 13\ExamenFinalSebas\ExamenFinalSebas.infraestructure\obj\Debug\net5.0\ExamenFinalSebas.infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svarg\Documents\Fidelitas\II CUATRI 2022\Programación Avanzada en Web\Semana 13\ExamenFinalSebas\ExamenFinalSebas.infraestructure\obj\Debug\net5.0\ExamenFinalSebas.infraestructure.AssemblyInfoInputs.cache
+C:\Users\svarg\Documents\Fidelitas\II CUATRI 2022\Programación Avanzada en Web\Semana 13\ExamenFinalSebas\ExamenFinalSebas.infraestructure\obj\Debug\net5.0\ExamenFinalSebas.infraestructure.AssemblyInfo.cs
+C:\Users\svarg\Documents\Fidelitas\II CUATRI 2022\Programación Avanzada en Web\Semana 13\ExamenFinalSebas\ExamenFinalSebas.infraestructure\obj\Debug\net5.0\ExamenFinalSebas.infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\svarg\Documents\Fidelitas\II CUATRI 2022\Programación Avanzada en Web\Semana 13\ExamenFinalSebas\ExamenFinalSebas.infraestructure\obj\Debug\net5.0\ExamenFinalSebas.infraestructure.csproj.CopyComplete
+C:\Users\svarg\Documents\Fidelitas\II CUATRI 2022\Programación Avanzada en Web\Semana 13\ExamenFinalSebas\ExamenFinalSebas.infraestructure\obj\Debug\net5.0\ExamenFinalSebas.infraestructure.dll
+C:\Users\svarg\Documents\Fidelitas\II CUATRI 2022\Programación Avanzada en Web\Semana 13\ExamenFinalSebas\ExamenFinalSebas.infraestructure\obj\Debug\net5.0\ref\ExamenFinalSebas.infraestructure.dll
+C:\Users\svarg\Documents\Fidelitas\II CUATRI 2022\Programación Avanzada en Web\Semana 13\ExamenFinalSebas\ExamenFinalSebas.infraestructure\obj\Debug\net5.0\ExamenFinalSebas.infraestructure.pdb
+C:\Users\svarg\Documents\Fidelitas\II CUATRI 2022\Programación Avanzada en Web\Semana 13\ExamenFinalSebas\ExamenFinalSebas.infraestructure\obj\Debug\net5.0\ExamenFinalSebas.infraestructure.genruntimeconfig.cache
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinalSebas\ExamenFinalSebas.infraestructure\bin\Debug\net5.0\ExamenFinalSebas.infraestructure.deps.json
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinalSebas\ExamenFinalSebas.infraestructure\bin\Debug\net5.0\ExamenFinalSebas.infraestructure.runtimeconfig.json
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinalSebas\ExamenFinalSebas.infraestructure\bin\Debug\net5.0\ExamenFinalSebas.infraestructure.runtimeconfig.dev.json
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinalSebas\ExamenFinalSebas.infraestructure\bin\Debug\net5.0\ExamenFinalSebas.infraestructure.dll
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinalSebas\ExamenFinalSebas.infraestructure\bin\Debug\net5.0\ref\ExamenFinalSebas.infraestructure.dll
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinalSebas\ExamenFinalSebas.infraestructure\bin\Debug\net5.0\ExamenFinalSebas.infraestructure.pdb
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinalSebas\ExamenFinalSebas.infraestructure\bin\Debug\net5.0\ExamenFinalSebas.application.dll
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinalSebas\ExamenFinalSebas.infraestructure\bin\Debug\net5.0\ExamenFinalSebas.domain.dll
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinalSebas\ExamenFinalSebas.infraestructure\bin\Debug\net5.0\ExamenFinalSebas.application.pdb
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinalSebas\ExamenFinalSebas.infraestructure\bin\Debug\net5.0\ExamenFinalSebas.domain.pdb
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinalSebas\ExamenFinalSebas.infraestructure\obj\Debug\net5.0\ExamenFinalSebas.infraestructure.csproj.AssemblyReference.cache
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinalSebas\ExamenFinalSebas.infraestructure\obj\Debug\net5.0\ExamenFinalSebas.infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinalSebas\ExamenFinalSebas.infraestructure\obj\Debug\net5.0\ExamenFinalSebas.infraestructure.AssemblyInfoInputs.cache
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinalSebas\ExamenFinalSebas.infraestructure\obj\Debug\net5.0\ExamenFinalSebas.infraestructure.AssemblyInfo.cs
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinalSebas\ExamenFinalSebas.infraestructure\obj\Debug\net5.0\ExamenFinalSebas.infraestructure.csproj.CoreCompileInputs.cache
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinalSebas\ExamenFinalSebas.infraestructure\obj\Debug\net5.0\ExamenFinalSebas.infraestructure.csproj.CopyComplete
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinalSebas\ExamenFinalSebas.infraestructure\obj\Debug\net5.0\ExamenFinalSebas.infraestructure.dll
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinalSebas\ExamenFinalSebas.infraestructure\obj\Debug\net5.0\ref\ExamenFinalSebas.infraestructure.dll
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinalSebas\ExamenFinalSebas.infraestructure\obj\Debug\net5.0\ExamenFinalSebas.infraestructure.pdb
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinalSebas\ExamenFinalSebas.infraestructure\obj\Debug\net5.0\ExamenFinalSebas.infraestructure.genruntimeconfig.cache
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.infraestructure\bin\Debug\net5.0\ExamenFinalSebas.infraestructure.deps.json
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.infraestructure\bin\Debug\net5.0\ExamenFinalSebas.infraestructure.runtimeconfig.json
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.infraestructure\bin\Debug\net5.0\ExamenFinalSebas.infraestructure.runtimeconfig.dev.json
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.infraestructure\bin\Debug\net5.0\ExamenFinalSebas.infraestructure.dll
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.infraestructure\bin\Debug\net5.0\ref\ExamenFinalSebas.infraestructure.dll
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.infraestructure\bin\Debug\net5.0\ExamenFinalSebas.infraestructure.pdb
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.infraestructure\bin\Debug\net5.0\ExamenFinalSebas.application.dll
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.infraestructure\bin\Debug\net5.0\ExamenFinalSebas.domain.dll
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.infraestructure\bin\Debug\net5.0\ExamenFinalSebas.application.pdb
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.infraestructure\bin\Debug\net5.0\ExamenFinalSebas.domain.pdb
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.infraestructure\obj\Debug\net5.0\ExamenFinalSebas.infraestructure.csproj.AssemblyReference.cache
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.infraestructure\obj\Debug\net5.0\ExamenFinalSebas.infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.infraestructure\obj\Debug\net5.0\ExamenFinalSebas.infraestructure.AssemblyInfoInputs.cache
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.infraestructure\obj\Debug\net5.0\ExamenFinalSebas.infraestructure.AssemblyInfo.cs
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.infraestructure\obj\Debug\net5.0\ExamenFinalSebas.infraestructure.csproj.CoreCompileInputs.cache
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.infraestructure\obj\Debug\net5.0\ExamenFinalSebas.infraestructure.csproj.CopyComplete
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.infraestructure\obj\Debug\net5.0\ExamenFinalSebas.infraestructure.dll
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.infraestructure\obj\Debug\net5.0\ref\ExamenFinalSebas.infraestructure.dll
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.infraestructure\obj\Debug\net5.0\ExamenFinalSebas.infraestructure.pdb
+E:\braya\Universidad\Programación Avanzada en Web\ExamenFinal2\ExamenFinal\ExamenFinalSebas.infraestructure\obj\Debug\net5.0\ExamenFinalSebas.infraestructure.genruntimeconfig.cache

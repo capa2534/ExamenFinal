@@ -1,0 +1,20 @@
+﻿
+@model string
+
+<div class="form-group inputs">
+    <a id="cancel" class="btn btn-outline-secondary" asp-action="index">
+        <i class="fa-solid fa-ban"></i> Cancel
+    </a>
+    <button id="submit" type="submit" class="btn btn-outline-info">
+        <i class="fa-solid fa-floppy-disk"></i>
+        @if (!string.IsNullOrEmpty(Model))
+        {
+            <span>Actualizar</span>
+        }
+        else
+        {
+            <span>Crear</span>
+        }
+    </button>
+</div>
+
