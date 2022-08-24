@@ -188,7 +188,7 @@ namespace ExamenFinalBryan.responsive.Controllers
                             new CorreoElectronico
                             {
                                 Destinatario = email,
-                                Asunto = "Contraseña reenviada RE: RentacCar Fidelitas",
+                                Asunto = "Contraseña reenviada RE: Fidelitas Motors",
                                 Cuerpo = "Haga clic en el siguiente enlace para proceder al cambio de contraseña de su cuenta:  " + "http://localhost:57492" + resetPasswordUrl, 
                             }
                         );
