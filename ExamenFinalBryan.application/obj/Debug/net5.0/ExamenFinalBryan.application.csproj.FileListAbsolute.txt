@@ -28,3 +28,18 @@ C:\Users\capa6\Desktop\New folder (3)\ExamenFinal\ExamenFinalBryan.application\o
 C:\Users\capa6\Desktop\New folder (3)\ExamenFinal\ExamenFinalBryan.application\obj\Debug\net5.0\ExamenFinalBryan.application.dll
 C:\Users\capa6\Desktop\New folder (3)\ExamenFinal\ExamenFinalBryan.application\obj\Debug\net5.0\ref\ExamenFinalBryan.application.dll
 C:\Users\capa6\Desktop\New folder (3)\ExamenFinal\ExamenFinalBryan.application\obj\Debug\net5.0\ExamenFinalBryan.application.pdb
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.application\bin\Debug\net5.0\ExamenFinalBryan.application.deps.json
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.application\bin\Debug\net5.0\ExamenFinalBryan.application.dll
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.application\bin\Debug\net5.0\ExamenFinalBryan.application.pdb
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.application\bin\Debug\net5.0\ExamenFinalBryan.domain.dll
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.application\bin\Debug\net5.0\ExamenFinalBryan.domain.pdb
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.application\obj\Debug\net5.0\ExamenFinalBryan.application.csproj.AssemblyReference.cache
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.application\obj\Debug\net5.0\ExamenFinalBryan.application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.application\obj\Debug\net5.0\ExamenFinalBryan.application.AssemblyInfoInputs.cache
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.application\obj\Debug\net5.0\ExamenFinalBryan.application.AssemblyInfo.cs
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.application\obj\Debug\net5.0\ExamenFinalBryan.application.csproj.CoreCompileInputs.cache
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.application\obj\Debug\net5.0\ExamenFinalBryan.application.csproj.CopyComplete
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.application\obj\Debug\net5.0\ExamenFinalBryan.application.dll
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.application\obj\Debug\net5.0\refint\ExamenFinalBryan.application.dll
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.application\obj\Debug\net5.0\ExamenFinalBryan.application.pdb
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.application\obj\Debug\net5.0\ref\ExamenFinalBryan.application.dll

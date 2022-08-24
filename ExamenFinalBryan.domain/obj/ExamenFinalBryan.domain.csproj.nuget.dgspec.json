@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\capa6\\Desktop\\New folder (3)\\ExamenFinal\\ExamenFinalBryan.domain\\ExamenFinalBryan.domain.csproj": {}
+    "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.domain\\ExamenFinalBryan.domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\capa6\\Desktop\\New folder (3)\\ExamenFinal\\ExamenFinalBryan.domain\\ExamenFinalBryan.domain.csproj": {
+    "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.domain\\ExamenFinalBryan.domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\capa6\\Desktop\\New folder (3)\\ExamenFinal\\ExamenFinalBryan.domain\\ExamenFinalBryan.domain.csproj",
+        "projectUniqueName": "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.domain\\ExamenFinalBryan.domain.csproj",
         "projectName": "ExamenFinalBryan.domain",
-        "projectPath": "C:\\Users\\capa6\\Desktop\\New folder (3)\\ExamenFinal\\ExamenFinalBryan.domain\\ExamenFinalBryan.domain.csproj",
-        "packagesPath": "C:\\Users\\capa6\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\capa6\\Desktop\\New folder (3)\\ExamenFinal\\ExamenFinalBryan.domain\\obj\\",
+        "projectPath": "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.domain\\ExamenFinalBryan.domain.csproj",
+        "packagesPath": "C:\\Users\\valer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\capa6\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\valer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

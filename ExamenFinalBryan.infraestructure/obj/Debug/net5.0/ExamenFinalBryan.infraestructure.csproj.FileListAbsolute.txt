@@ -38,3 +38,23 @@ C:\Users\capa6\Desktop\New folder (3)\ExamenFinal\ExamenFinalBryan.infraestructu
 C:\Users\capa6\Desktop\New folder (3)\ExamenFinal\ExamenFinalBryan.infraestructure\obj\Debug\net5.0\ref\ExamenFinalBryan.infraestructure.dll
 C:\Users\capa6\Desktop\New folder (3)\ExamenFinal\ExamenFinalBryan.infraestructure\obj\Debug\net5.0\ExamenFinalBryan.infraestructure.pdb
 C:\Users\capa6\Desktop\New folder (3)\ExamenFinal\ExamenFinalBryan.infraestructure\obj\Debug\net5.0\ExamenFinalBryan.infraestructure.genruntimeconfig.cache
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.infraestructure\bin\Debug\net5.0\ExamenFinalBryan.infraestructure.deps.json
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.infraestructure\bin\Debug\net5.0\ExamenFinalBryan.infraestructure.runtimeconfig.json
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.infraestructure\bin\Debug\net5.0\ExamenFinalBryan.infraestructure.runtimeconfig.dev.json
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.infraestructure\bin\Debug\net5.0\ExamenFinalBryan.infraestructure.dll
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.infraestructure\bin\Debug\net5.0\ExamenFinalBryan.infraestructure.pdb
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.infraestructure\bin\Debug\net5.0\ExamenFinalBryan.application.dll
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.infraestructure\bin\Debug\net5.0\ExamenFinalBryan.domain.dll
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.infraestructure\bin\Debug\net5.0\ExamenFinalBryan.application.pdb
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.infraestructure\bin\Debug\net5.0\ExamenFinalBryan.domain.pdb
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.infraestructure\obj\Debug\net5.0\ExamenFinalBryan.infraestructure.csproj.AssemblyReference.cache
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.infraestructure\obj\Debug\net5.0\ExamenFinalBryan.infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.infraestructure\obj\Debug\net5.0\ExamenFinalBryan.infraestructure.AssemblyInfoInputs.cache
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.infraestructure\obj\Debug\net5.0\ExamenFinalBryan.infraestructure.AssemblyInfo.cs
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.infraestructure\obj\Debug\net5.0\ExamenFinalBryan.infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.infraestructure\obj\Debug\net5.0\ExamenFinalBryan.infraestructure.csproj.CopyComplete
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.infraestructure\obj\Debug\net5.0\ExamenFinalBryan.infraestructure.dll
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.infraestructure\obj\Debug\net5.0\refint\ExamenFinalBryan.infraestructure.dll
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.infraestructure\obj\Debug\net5.0\ExamenFinalBryan.infraestructure.pdb
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.infraestructure\obj\Debug\net5.0\ExamenFinalBryan.infraestructure.genruntimeconfig.cache
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.infraestructure\obj\Debug\net5.0\ref\ExamenFinalBryan.infraestructure.dll

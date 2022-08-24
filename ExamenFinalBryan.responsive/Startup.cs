@@ -1,6 +1,8 @@
 
 using ExamenFinalBryan.application;
+using ExamenFinalBryan.application.Components;
 using ExamenFinalBryan.application.Contracts;
+using ExamenFinalBryan.domain.Models.ConfigurationsModels;
 using ExamenFinalBryan.domain.Models.DataModels;
 using ExamenFinalBryan.domain.Models.MailModels;
 using ExamenFinalBryan.infraestructure;
@@ -55,7 +57,9 @@ namespace ExamenFinalBryan.responsive
             services.AddSingleton<ICartero, Cartero>();
             services.Configure<ConfiguracionSmtp>(Configuration.GetSection("ConfiguracionSmtp"));
 
+            services.Configure<ConfiguracionRecaptcha>(Configuration.GetSection("ConfiguracionRecaptcha"));
 
+            services.AddSingleton<IRecaptchaValidator, RecaptchaValidator>();
 
             services.AddAuthentication
                 (

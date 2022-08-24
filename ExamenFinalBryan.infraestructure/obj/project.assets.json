@@ -8764,19 +8764,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\capa6\\.nuget\\packages\\": {}
+    "C:\\Users\\valer\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\capa6\\Desktop\\New folder (3)\\ExamenFinal\\ExamenFinalBryan.infraestructure\\ExamenFinalBryan.infraestructure.csproj",
+      "projectUniqueName": "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.infraestructure\\ExamenFinalBryan.infraestructure.csproj",
       "projectName": "ExamenFinalBryan.infraestructure",
-      "projectPath": "C:\\Users\\capa6\\Desktop\\New folder (3)\\ExamenFinal\\ExamenFinalBryan.infraestructure\\ExamenFinalBryan.infraestructure.csproj",
-      "packagesPath": "C:\\Users\\capa6\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\capa6\\Desktop\\New folder (3)\\ExamenFinal\\ExamenFinalBryan.infraestructure\\obj\\",
+      "projectPath": "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.infraestructure\\ExamenFinalBryan.infraestructure.csproj",
+      "packagesPath": "C:\\Users\\valer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.infraestructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\capa6\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\valer\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8790,11 +8790,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\capa6\\Desktop\\New folder (3)\\ExamenFinal\\ExamenFinalBryan.application\\ExamenFinalBryan.application.csproj": {
-              "projectPath": "C:\\Users\\capa6\\Desktop\\New folder (3)\\ExamenFinal\\ExamenFinalBryan.application\\ExamenFinalBryan.application.csproj"
+            "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.application\\ExamenFinalBryan.application.csproj": {
+              "projectPath": "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.application\\ExamenFinalBryan.application.csproj"
             },
-            "C:\\Users\\capa6\\Desktop\\New folder (3)\\ExamenFinal\\ExamenFinalBryan.domain\\ExamenFinalBryan.domain.csproj": {
-              "projectPath": "C:\\Users\\capa6\\Desktop\\New folder (3)\\ExamenFinal\\ExamenFinalBryan.domain\\ExamenFinalBryan.domain.csproj"
+            "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.domain\\ExamenFinalBryan.domain.csproj": {
+              "projectPath": "C:\\Users\\valer\\OneDrive\\Escritorio\\Proyecto44\\ExamenFinal\\ExamenFinalBryan.domain\\ExamenFinalBryan.domain.csproj"
             }
           }
         }
@@ -8869,7 +8869,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

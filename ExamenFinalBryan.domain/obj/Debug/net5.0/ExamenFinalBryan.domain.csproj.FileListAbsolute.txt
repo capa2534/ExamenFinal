@@ -33,3 +33,15 @@ C:\Users\capa6\Desktop\New folder (3)\ExamenFinal\ExamenFinalBryan.domain\obj\De
 C:\Users\capa6\Desktop\New folder (3)\ExamenFinal\ExamenFinalBryan.domain\obj\Debug\net5.0\ExamenFinalBryan.domain.dll
 C:\Users\capa6\Desktop\New folder (3)\ExamenFinal\ExamenFinalBryan.domain\obj\Debug\net5.0\ref\ExamenFinalBryan.domain.dll
 C:\Users\capa6\Desktop\New folder (3)\ExamenFinal\ExamenFinalBryan.domain\obj\Debug\net5.0\ExamenFinalBryan.domain.pdb
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.domain\bin\Debug\net5.0\ExamenFinalBryan.domain.deps.json
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.domain\bin\Debug\net5.0\ExamenFinalBryan.domain.dll
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.domain\bin\Debug\net5.0\ExamenFinalBryan.domain.pdb
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.domain\obj\Debug\net5.0\ExamenFinalBryan.domain.csproj.AssemblyReference.cache
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.domain\obj\Debug\net5.0\ExamenFinalBryan.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.domain\obj\Debug\net5.0\ExamenFinalBryan.domain.AssemblyInfoInputs.cache
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.domain\obj\Debug\net5.0\ExamenFinalBryan.domain.AssemblyInfo.cs
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.domain\obj\Debug\net5.0\ExamenFinalBryan.domain.csproj.CoreCompileInputs.cache
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.domain\obj\Debug\net5.0\ExamenFinalBryan.domain.dll
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.domain\obj\Debug\net5.0\refint\ExamenFinalBryan.domain.dll
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.domain\obj\Debug\net5.0\ExamenFinalBryan.domain.pdb
+C:\Users\valer\OneDrive\Escritorio\Proyecto44\ExamenFinal\ExamenFinalBryan.domain\obj\Debug\net5.0\ref\ExamenFinalBryan.domain.dll

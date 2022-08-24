@@ -1,4 +1,6 @@
-﻿using ExamenFinalBryan.domain.Models.InputModels;
+﻿using ExamenFinalBryan.application.Contracts;
+using ExamenFinalBryan.domain.Models.ConfigurationsModels;
+using ExamenFinalBryan.domain.Models.InputModels;
 using ExamenFinalBryan.domain.Models.MailModels;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Builder;
@@ -7,6 +9,7 @@ using Microsoft.AspNetCore.Hosting.Server.Features;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Options;
 using MimeKit;
 using System;
 using System.Collections.Generic;
@@ -21,18 +24,24 @@ namespace ExamenFinalBryan.responsive.Controllers
     public class AccountsController : Controller
     {
         public AccountsController
-            (
+            (IOptions<ConfiguracionRecaptcha> configuracion, IRecaptchaValidator recaptcha,
                 UserManager<IdentityUser> userManager, 
                 SignInManager<IdentityUser> sessionManager,
                 RoleManager<IdentityRole> roleManager,
                 ICartero cartero
             )
         {
+            Configuracion = configuracion.Value;
+            Recaptcha = recaptcha;
+
             _userManager = userManager;
             _sessionManager = sessionManager;
             _roleManager = roleManager;
             Cartero = cartero;
         }
+
+        ConfiguracionRecaptcha Configuracion;
+        IRecaptchaValidator Recaptcha;
 
         ICartero Cartero;
         readonly UserManager<IdentityUser> _userManager;
@@ -93,32 +102,67 @@ namespace ExamenFinalBryan.responsive.Controllers
 
         [HttpGet]
         [Route("login")]
-        public IActionResult Login()
+        public async Task<IActionResult> Login()
         {
+
+            //esto 
             LoginInputModel model =
-                new LoginInputModel();
+                new LoginInputModel
+                {
+                    SiteKey = Configuracion.SiteKey,
+
+                    //ExternalLogins =
+                    //(await _sessionManager.GetExternalAuthenticationSchemesAsync()).ToList()
+                };
+
             return View(model);
         }
 
         [HttpPost]
+        [ValidateAntiForgeryToken]
         [Route("login")]
         public async Task<IActionResult> Login(LoginInputModel model)
         {
             if (ModelState.IsValid)
             {
-                var result =
-                    await _sessionManager.PasswordSignInAsync
-                        (model.Email, model.Password, isPersistent: false, lockoutOnFailure: false);
 
-                if (result.Succeeded)
+
+                try
                 {
-                    return RedirectToAction("index", "home");
+                    var result =
+                        await _sessionManager.PasswordSignInAsync
+                    (model.Email, model.Password, isPersistent: false, lockoutOnFailure: false);
+
+
+                    if (Recaptcha.Validate(model.Recaptcha))
+                    {
+
+                        if (result.Succeeded)
+                        {
+
+                            return RedirectToAction("index", "home");
+                        }
+
+                    }
+
+
                 }
 
-                ModelState.AddModelError(string.Empty, "No se pudo establecer sesion!");
-            }
+                catch (Exception ex)
+                {
+                    string[] messages = ex.Message.Split("\n", StringSplitOptions.RemoveEmptyEntries);
+                    foreach (var message in messages)
+                    {
+                        ModelState.AddModelError(string.Empty, message);
 
+
+                    }
+                }
+                return View(model);
+
+            }
             return View(model);
+
         }
 
         [HttpPost]

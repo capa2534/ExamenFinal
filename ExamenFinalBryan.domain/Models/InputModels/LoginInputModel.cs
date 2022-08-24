@@ -20,5 +20,13 @@ namespace ExamenFinalBryan.domain.Models.InputModels
         //public string ReturnUrl { get; set; }
 
         //public IList<AuthenticationScheme> ExternalLogins { get; set; }
+
+
+        public string SiteKey { get; set; }
+
+        public string Recaptcha { get; set; }
+
+        public LoginInputModel InputModel { get; set; }
+
     }
 }
